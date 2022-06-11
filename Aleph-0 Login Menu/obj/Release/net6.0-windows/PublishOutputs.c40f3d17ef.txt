@@ -1,0 +1,5 @@
+D:\Aleph-0\Aleph-0 Login Menu.exe
+D:\Aleph-0\Aleph-0 Login Menu.dll
+D:\Aleph-0\Aleph-0 Login Menu.deps.json
+D:\Aleph-0\Aleph-0 Login Menu.runtimeconfig.json
+D:\Aleph-0\Aleph-0 Login Menu.pdb

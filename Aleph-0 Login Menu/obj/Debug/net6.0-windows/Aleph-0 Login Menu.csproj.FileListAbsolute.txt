@@ -1,0 +1,19 @@
+D:\Aleph-0\Aleph-0 Login Menu\bin\Debug\net6.0-windows\Aleph-0 Login Menu.exe
+D:\Aleph-0\Aleph-0 Login Menu\bin\Debug\net6.0-windows\Aleph-0 Login Menu.deps.json
+D:\Aleph-0\Aleph-0 Login Menu\bin\Debug\net6.0-windows\Aleph-0 Login Menu.runtimeconfig.json
+D:\Aleph-0\Aleph-0 Login Menu\bin\Debug\net6.0-windows\Aleph-0 Login Menu.dll
+D:\Aleph-0\Aleph-0 Login Menu\bin\Debug\net6.0-windows\Aleph-0 Login Menu.pdb
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.csproj.AssemblyReference.cache
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph_0_Login_Menu.Properties.Resources.resources
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.csproj.GenerateResource.cache
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.AssemblyInfoInputs.cache
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.AssemblyInfo.cs
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.csproj.CoreCompileInputs.cache
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.dll
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\refint\Aleph-0 Login Menu.dll
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.pdb
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph-0 Login Menu.genruntimeconfig.cache
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\ref\Aleph-0 Login Menu.dll
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph_0_Login_Menu.Form2.resources
+D:\Aleph-0\Aleph-0 Login Menu\obj\Debug\net6.0-windows\Aleph_0_Login_Menu.Aleph0.resources

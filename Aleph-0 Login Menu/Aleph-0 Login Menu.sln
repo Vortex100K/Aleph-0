@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aleph-0 Login Menu", "Aleph-0 Login Menu.csproj", "{5FAD9F2F-F33D-4EFB-8F7D-2937BC6EBB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAD9F2F-F33D-4EFB-8F7D-2937BC6EBB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAD9F2F-F33D-4EFB-8F7D-2937BC6EBB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAD9F2F-F33D-4EFB-8F7D-2937BC6EBB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAD9F2F-F33D-4EFB-8F7D-2937BC6EBB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADEA7284-83F3-462B-B8B5-12E486FEB363}
+	EndGlobalSection
+EndGlobal
