@@ -7,4 +7,4 @@
                                                                      
 
                          
-                  well its a little project im working on that in the end im hoping to be a hub for certain ai algorithms 
+                   well its a little project im working on that in the end im hoping to be a hub for certain ai algorithms 
