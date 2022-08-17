@@ -1,5 +1,5 @@
-                                                                      # Aleph-0
-                                                                 AI in development
+                                                                    # Aleph-0
+                                                                AI in development
 ![Aleph 0 LOGO BIG png](https://user-images.githubusercontent.com/79509710/185190190-245d3b9e-f086-4e26-9277-b70c6f5e995c.png)
 
                                                                      ----------------- 
