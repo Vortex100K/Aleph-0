@@ -5,6 +5,6 @@
                                                                       
                                                                What is aleph-0
                                                                      
-
+this is dead coulnt get model to work 
                          
                    well its a little project im working on that in the end im hoping to be a hub for certain ai algorithms 
